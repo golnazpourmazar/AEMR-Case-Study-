@@ -2,6 +2,7 @@ The American Energy Market Regulator (AEMR) is responsible for looking after the
 United States of America’s domestic energy network. The regulator’s responsibility is to
 ensure that America’s energy network remains reliable with minimal disruptions, which
 are known as outages. There are four key types of outages:
+
 ● Consequential – This outage is caused by an exogenous event or a
 consequence of work unrelated to the energy provider (i.e. A transmission line
 may be down, which means that a particular power provider may be unable to
